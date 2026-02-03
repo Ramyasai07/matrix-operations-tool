@@ -35,4 +35,4 @@ cd matrix-operations-tool
 pip install -r requirements.txt
 
 # Run the app
-streamlit run matrix_calculator.py
+streamlit run app.py
