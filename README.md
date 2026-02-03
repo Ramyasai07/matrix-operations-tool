@@ -1,7 +1,5 @@
 # 🟩 Matrix Operations Tool - Cyberpunk Themed
 
-![Matrix Operations Banner](screenshots/operation-result.jpg)
-
 **An interactive, educational matrix calculator with a Cyberpunk/Matrix theme** built using Streamlit and NumPy. Perfect for students, educators, and linear algebra enthusiasts.
 
 ## 🚀 Features
@@ -27,15 +25,15 @@
 ## 📸 Application Walkthrough
 
 ### 1. Configure Matrix Dimensions
-![Matrix Setup](screenshots/matrix-size-configuration.jpg)
+![Matrix Setup](screenshots/matrix-size-configuration.jpeg)
 *Set the size of matrices A and B (from 2×2 to 6×6) using intuitive controls.*
 
 ### 2. Enter Matrix Values
-![Value Input](screenshots/matrix-value-input.jpg)  
+![Value Input](screenshots/matrix-value-input.jpeg)  
 *Input matrix elements manually or use features like random generation, identity matrices, zeros, ones, or import from files.*
 
 ### 3. Perform Operations & View Results
-![Operations & Results](screenshots/operation-result.jpg)
+![Operations & Results](screenshots/operation-result.jpeg)
 *Select from various operations and see instant results with LaTeX formatting and step-by-step visualizations.*
 
 ## 🛠️ Installation & Usage
