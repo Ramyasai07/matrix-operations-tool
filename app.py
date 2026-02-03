@@ -12,8 +12,6 @@ Features:
 - Responsive, mobile-friendly, keyboard shortcuts
 - Modularized in a single file (app.py)
 
-Author: Ramya
-Date: 2026-02-03
 """
 
 import streamlit as st
@@ -346,8 +344,6 @@ st.markdown(CYBERPUNK_CSS, unsafe_allow_html=True)
 st.sidebar.title("🟩 Matrix Operations Tool")
 st.sidebar.markdown("""
 - **Theme:** Cyberpunk/Matrix
-- **Author:** Your Name
-- **Date:** 2026-02-03
 """)
 
 # --- Matrix Input Section ---
