@@ -1,34 +1,49 @@
 # 🟩 Matrix Operations Tool - Cyberpunk Themed
 
-An interactive matrix calculator with a Cyberpunk/Matrix theme built using Streamlit and NumPy.
+![Matrix Operations Banner](screenshots/operation-result.jpg)
+
+**An interactive, educational matrix calculator with a Cyberpunk/Matrix theme** built using Streamlit and NumPy. Perfect for students, educators, and linear algebra enthusiasts.
 
 ## 🚀 Features
 
-### Matrix Operations
-- Addition, Subtraction, Multiplication (matrix & element-wise)
-- Transpose, Determinant, Inverse, Trace
-- Step-by-step visualizations for learning
+### 🧮 Matrix Operations
+- **Basic**: Addition, Subtraction, Matrix Multiplication
+- **Advanced**: Element-wise Multiplication, Transpose, Determinant, Inverse, Trace
+- **Educational**: Step-by-step visualizations for learning concepts
 
-### Matrix Input Methods
-- Dynamic size adjustment (2x2 to 6x6)
-- Random generation
-- Presets (Identity, Zeros, Ones)
-- File import (CSV, JSON, Excel)
-- Copy-paste from spreadsheets
+### 📊 Matrix Input Methods
+- **Dynamic Sizing**: Adjust from 2×2 to 6×6 in real-time
+- **Multiple Inputs**: Manual entry, random generation, presets (Identity, Zeros, Ones)
+- **File Import**: CSV, JSON, Excel file support
+- **Copy-Paste**: Direct paste from spreadsheets
 
-### Professional Features
-- Cyberpunk/Matrix-themed UI with neon colors
-- Real-time LaTeX rendering
-- Operation history with replay
-- Export results (CSV, JSON, PNG)
-- Keyboard shortcuts
+### 🎨 Professional Features
+- **Cyberpunk UI**: Neon green theme with digital rain effect
+- **Real-time LaTeX**: Professional mathematical formatting
+- **Operation History**: Track and replay past calculations
+- **Export Options**: Download results as CSV, JSON, or PNG
+- **Keyboard Shortcuts**: Ctrl+Enter for operations, Escape to clear
+
+## 📸 Application Walkthrough
+
+### 1. Configure Matrix Dimensions
+![Matrix Setup](screenshots/matrix-size-configuration.jpg)
+*Set the size of matrices A and B (from 2×2 to 6×6) using intuitive controls.*
+
+### 2. Enter Matrix Values
+![Value Input](screenshots/matrix-value-input.jpg)  
+*Input matrix elements manually or use features like random generation, identity matrices, zeros, ones, or import from files.*
+
+### 3. Perform Operations & View Results
+![Operations & Results](screenshots/operation-result.jpg)
+*Select from various operations and see instant results with LaTeX formatting and step-by-step visualizations.*
 
 ## 🛠️ Installation & Usage
 
 ### Local Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USERNAME/matrix-operations-tool.git
+git clone https://github.com/Ramyasai07/matrix-operations-tool.git
 cd matrix-operations-tool
 
 # Install dependencies
